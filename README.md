@@ -4,8 +4,12 @@
 
 ### Adição de Ícones de Lua e Sol
 
-- Importação dos ícones `Moon` e `Sun` de `@phosphor-icons/react` para serem usados como ícones de tema escuro e claro, respectivamente.
+Criação de componentes de ícones `Moon` e `Sun` como SVG para representar os ícones de tema escuro e claro, respectivamente.
 
-Adição da funcionalidade de pressionar a tecla Enter para adicionar uma nova tarefa. Basta digitar a tarefa desejada e pressionar Enter.
+### Suporte para Adicionar Tarefas com Enter
 
+- Adição da funcionalidade de pressionar a tecla Enter para adicionar uma nova tarefa. Basta digitar a tarefa desejada e pressionar Enter.
 
+### Aplicação da Transição no Elemento Principal (`<main>`)
+
+- Uso da biblioteca `framer-motion` para aplicar uma transição suave no elemento `<main>`, tornando a alteração de temas mais suave visualmente.
