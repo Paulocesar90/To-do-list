@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { PlusCircle, Moon, Sun } from '@phosphor-icons/react';
+import { PlusCircle } from '@phosphor-icons/react';
 import { ThemeProvider } from 'styled-components';
 import styles from './App.module.css';
 import { Button } from './components/Button';
