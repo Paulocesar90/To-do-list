@@ -1,0 +1,28 @@
+.appContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .taskInfoContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .themeButton {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .tasksList {
+    margin-top: 20px;
+  }
